@@ -2,7 +2,7 @@ import React from 'react';
 import { LoadingPage } from '../components/util/loading_page';
 
 export default {
-  title: 'Loading Page',
+  title: 'Components/Util/Loading Page',
   component: LoadingPage,
 };
 
