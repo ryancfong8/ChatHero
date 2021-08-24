@@ -328,3 +328,34 @@ body {
     }
   }
 }
+
+// for storybook
+// .create-channel-form {
+//   color: #333333;
+.channel-input-container {
+  position: relative;
+}
+// input {
+//   padding: 4px 12px;
+//   font-size: 18px;
+//   border: 1px solid #666666;
+//   width: 100%;
+// }
+.channel-name-input {
+  padding: 4px 40px;
+}
+.input-icon-storybook {
+  position: absolute;
+  left: 16px;
+  top: 6px;
+  color: #666666;
+}
+label {
+  margin-top: 0.5rem;
+  font-weight: 700;
+}
+.optional {
+  font-weight: 400;
+  color: #999999;
+}
+// }
